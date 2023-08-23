@@ -6,10 +6,11 @@ Shlomo Gulayev -
 Micha Briskman - 
 
 Summary:
-For the final project of the semester we built a game called 'Bubble Trouble'.
-In the game, the player controls a chrarcter using the arrow (left, right) keys,
-the character has to destroy the bouncing balls on each level using their weapon (press 'space' to shoot)
-while avoiding getting hit by them. once every ball is cleared, the game procceeds to next level.
+For the final project of the semester we made a remake for the game called 'Bubble Trouble'.
+Instructions:
+The player controlls a chrarcter using the arrow (left, right) keys,
+the character has to destroy the bouncing balls on each level using their weapon ('space' to shoot)
+while avoiding getting hit by them. Once every ball is cleared, the game procceeds to next level.
 There are four sizes of balls, every size has different color and when the player pops a ball,
 two smaller balls drop. A ball can drop a gift, there are different gifts such as different weapons,
 shield, extra health and more; On some levels there are doors that open once every ball to the right is popped.
