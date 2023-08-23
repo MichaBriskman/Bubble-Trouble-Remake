@@ -1,9 +1,9 @@
 # Final Project: Bubble Trouble
 
 # Students info:
-## Michael Basov - 
-## Shlomo Gulayev - 
-## Micha Briskman - 
+Michael Basov - </br>
+Shlomo Gulayev - </br>
+Micha Briskman - </br>
 
 # Summary:
 For the final project of the semester we made a remake for the game called 'Bubble Trouble'.
