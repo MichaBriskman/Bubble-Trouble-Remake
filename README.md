@@ -42,14 +42,3 @@ Socket - Represents a socket control for LAN connection.</br>
 StaticObject - Represnts every static object in the game. An abstarct class.</br>
 Wall - Represents a wall that blocks every object in the game.</br>
 Weapon - Represents a weapon. An abstarct class.</br>
-
-# Main databases:
-vector of Player - stores the players playing.
-vector of Ball - stores the active balls in the game
-vector of static objects - stores the walls, doors and gifts.
-
-# Special algorithms:
-
-# Known bugs:
-
-# Other:
