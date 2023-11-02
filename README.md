@@ -5,6 +5,8 @@ Michael Basov - </br>
 Shlomo Gulayev - </br>
 Micha Briskman - </br>
 # Video
+[![Watch the video](https://www.youtube.com/watch?v=fh4R8KwFs-Y)](https://www.youtube.com/watch?v=fh4R8KwFs-Y)
+
 [![Watch the video](https://www.youtube.com/watch?v=fh4R8KwFs-Y&si=WjsUJqTqLOWrgTKl)](https://www.youtube.com/embed/<fh4R8KwFs-Y>)
 # Summary:
 For the final project of the semester we made a remake for the game called 'Bubble Trouble'.
