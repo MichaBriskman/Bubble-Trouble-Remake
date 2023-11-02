@@ -1,12 +1,10 @@
-![image](https://github.com/MichaBriskman/Bubble-Trouble-Remake-Project/assets/127838940/445329f2-3d63-4816-bef3-aa2e7a597534)![image](https://github.com/MichaBriskman/Bubble-Trouble-Remake-Project/assets/127838940/a811d0e4-6537-4e8c-83ac-47a89e3df2b5)# Final Project: Bubble Trouble
-
 # Students info:
 Michael Basov - </br>
 Shlomo Gulayev - </br>
 Micha Briskman - </br>
 
 # Video
-[![Watch the video](https://www.youtube.com/watch?v=fh4R8KwFs-Y)](![](imgs/bubbleTroubleBatmanYT.png))
+[![Watch the video](https://www.youtube.com/watch?v=fh4R8KwFs-Y)]
 
 # Summary:
 For the final project of the semester we made a remake for the game called 'Bubble Trouble'.
