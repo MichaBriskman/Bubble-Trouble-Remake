@@ -4,8 +4,7 @@ Shlomo Gulayev - </br>
 Micha Briskman - </br>
 
 # Video
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
-[![Watch the video](https://img.youtube.com/vi/fh4R8KwFs-Y/default.jpg)](![](https://youtu.be/fh4R8KwFs-Y))
+[![Watch the video](https://img.youtube.com/vi/fh4R8KwFs-Y/default.jpg)](![]([https://www.youtube.com/watch?v=fh4R8KwFs-Y]))
 
 # Summary:
 For the final project of the semester we made a remake for the game called 'Bubble Trouble'.
