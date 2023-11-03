@@ -4,7 +4,6 @@ Shlomo Gulayev - </br>
 Micha Briskman - </br>
 
 # Video
-<img src="https://img.youtube.com/vi/fh4R8KwFs-Y/default.jpg" width="600" height="300" alt="Watch the video">
 [![Watch the video](https://img.youtube.com/vi/fh4R8KwFs-Y/default.jpg)](https://www.youtube.com/watch?v=fh4R8KwFs-Y)
 
 # Summary:
